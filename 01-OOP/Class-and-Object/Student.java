@@ -8,7 +8,7 @@ class Student {
     }
 }
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         Student s1 = new Student(10, "Alice");
         System.out.println(s1.id);
