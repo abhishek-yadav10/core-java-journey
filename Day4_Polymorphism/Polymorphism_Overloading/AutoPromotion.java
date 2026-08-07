@@ -1,4 +1,4 @@
-package Polymorphism;
+package Polymorphism_Overloading;
 
 public class AutoPromotion {
     void show(int a) {
