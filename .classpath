@@ -8,5 +8,7 @@
 	<classpathentry kind="src" path="01-OOP/Class-and-Object"/>
 	<classpathentry kind="src" path="Day4_Polymorphism"/>
 	<classpathentry kind="src" path="Day3"/>
+	<classpathentry kind="src" path="Day5_Abstraction"/>
+	<classpathentry kind="src" path="Daily_Practicle_Questions"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
