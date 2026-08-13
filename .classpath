@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="Day5_Abstraction"/>
 	<classpathentry kind="src" path="Daily_Practicle_Questions"/>
 	<classpathentry kind="src" path="Day6_encapsulation"/>
+	<classpathentry kind="src" path="Day7_Exception_handling"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
